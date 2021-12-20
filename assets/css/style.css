@@ -96,6 +96,9 @@ Description:  General styling for template (including Header, Footer, Sidebar)
  * Copyright 2011-2020 Twitter, Inc.
  * Licensed under MIT (https://github.com/twbs/bootstrap/blob/main/LICENSE)
  */
+
+@import url('https://fonts.googleapis.com/css2?family=Alfa+Slab+One&display=swap');
+
 :root {
   --blue: #007bff;
   --indigo: #6610f2;
